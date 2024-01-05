@@ -1,4 +1,5 @@
-### Divyansh Kumbhat
+# 💫 About Me:
+Hi there! 👋<br>I'm Divyansh Kumbhat, A student at Shri Ramdeobaba College of Engineering and Management. Pursuing B-Tech in CSE(AIML)
 
 - 🌱 I’m currently learning JavaScript
 
