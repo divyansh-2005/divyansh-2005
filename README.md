@@ -43,6 +43,12 @@ Hi there! 👋<br>I'm Divyansh Kumbhat, A student at Shri Ramdeobaba College of 
 </div>
 
 ###
+<p align="center"> 
+  <br>&nbsp;
+  <strong>What number r u?</strong>
+  <br>&nbsp;
+  <img src="https://profile-counter.glitch.me/divyansh-2005/count.svg" />
+</p>
 ###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=divyansh-2005&theme=discord&no-frame=false&no-bg=false&margin-w=4)
