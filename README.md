@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi there! 👋<br>I'm Divyansh Kumbhat, A student at Shri Ramdeobaba College of Engineering and Management. Pursuing B-Tech in CSE(AIML)
 
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning Meachine Learning
+- MERN stack Developer 
 - GSSOC'24 contributor.
 
 # 📊 GitHub Stats:
